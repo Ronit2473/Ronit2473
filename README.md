@@ -6,6 +6,7 @@
 ---
 
 🔭 Currently solving BUSINESS problems at People Interactive by leveraging AI/ML/DS concepts.
+
 🌱 I'm currently learning NLP, Computer Vision, MLOps, and Generative AI
 
 🤝 Always open to collaborate in the AI/ML/CV/NLP space
