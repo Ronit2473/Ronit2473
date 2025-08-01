@@ -15,9 +15,8 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/piyush-eo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronit-roy2473/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Ronit2473)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@ronitroyyt)
 
 ---
 
