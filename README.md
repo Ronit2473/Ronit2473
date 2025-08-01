@@ -1,5 +1,5 @@
 # Hey there, I'm Ronit! 👋  
-**AI Engineer | Generative AI Developer | Open Source Contributor**
+**AIML Engineer | Generative AI Developer | Open Source Contributor**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ronit2473&style=flat-square)
 
